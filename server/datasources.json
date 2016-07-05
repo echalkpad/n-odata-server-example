@@ -14,5 +14,15 @@
     "database": "n-odata-server-example-db",
     "name": "db_cloudant",
     "connector": "cloudant"
+  },
+  "mongodb": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "test",
+    "password": "",
+    "name": "mongodb",
+    "user": "",
+    "connector": "mongodb"
   }
 }

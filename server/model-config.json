@@ -68,5 +68,9 @@
   "BusinessTrip": {
     "dataSource": "db",
     "public": true
+  },
+  "CoffeeShop": {
+    "dataSource": "mongodb",
+    "public": true
   }
 }
